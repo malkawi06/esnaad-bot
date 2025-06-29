@@ -9,7 +9,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 nest_asyncio.apply()
 
 # ✅ توكن بوت تليجرام
-TELEGRAM_BOT_TOKEN = "8026460134:AAGy-4ApfOq2bjes7d-Sek1ac9HhJfT_1Dk"
+TELEGRAM_BOT_TOKEN = "8026460134:AAHSLfvQQ727Kudh9_6dJtUgdsBppPtGQeY"
 
 # ✅ الأسئلة والردود الجاهزة
 faq = {
